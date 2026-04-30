@@ -113,6 +113,20 @@
       "category": "Design"
     },
     {
+      "id": 9,
+      "title": "Node.js Backend Development",
+      "instructor": {
+        "name": "Daniel Garcia",
+        "image_url": "https://randomuser.me/api/portraits/men/9.jpg"
+      },
+      "duration": "16 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Build scalable backend applications using Node.js.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80",
+      "category": "Development"
+    },
+    {
       "id": 10,
       "title": "SEO Mastery Course",
       "instructor": {
