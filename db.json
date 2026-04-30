@@ -1,0 +1,136 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "John Doe",
+      "duration": "20 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn full-stack web development from scratch.",
+      "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 2,
+      "title": "Advanced JavaScript Mastery",
+      "instructor": "Sarah Smith",
+      "duration": "15 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Deep dive into modern JavaScript concepts and patterns.",
+      "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design Fundamentals",
+      "instructor": "Emily Johnson",
+      "duration": "12 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Learn the basics of user interface and user experience design.",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 4,
+      "title": "React.js Complete Guide",
+      "instructor": "Michael Brown",
+      "duration": "18 hours",
+      "rating": 4.9,
+      "level": "Intermediate",
+      "description": "Build modern web apps using React and hooks.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing Basics",
+      "instructor": "David Wilson",
+      "duration": "10 hours",
+      "rating": 4.5,
+      "level": "Beginner",
+      "description": "Understand SEO, social media, and online marketing strategies.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+      "category": "Marketing"
+    },
+    {
+      "id": 6,
+      "title": "Python for Beginners",
+      "instructor": "Sophia Lee",
+      "duration": "14 hours",
+      "rating": 4.7,
+      "level": "Beginner",
+      "description": "Start coding in Python with hands-on examples.",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 7,
+      "title": "Data Science with Python",
+      "instructor": "James Anderson",
+      "duration": "22 hours",
+      "rating": 4.8,
+      "level": "Advanced",
+      "description": "Learn data analysis, visualization, and machine learning.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "category": "Data Science"
+    },
+    {
+      "id": 8,
+      "title": "Figma UI Design Course",
+      "instructor": "Olivia Martin",
+      "duration": "9 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Design beautiful interfaces using Figma.",
+      "image": "https://images.unsplash.com/photo-1609921212029-bb5a28e60960?w=600&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 9,
+      "title": "Node.js Backend Development",
+      "instructor": "Daniel Garcia",
+      "duration": "16 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Build scalable backend applications using Node.js.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 10,
+      "title": "SEO Mastery Course",
+      "instructor": "Chris Evans",
+      "duration": "8 hours",
+      "rating": 4.4,
+      "level": "Beginner",
+      "description": "Improve website ranking with SEO techniques.",
+      "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=600&q=80",
+      "category": "Marketing"
+    },
+    {
+      "id": 11,
+      "title": "Machine Learning A-Z",
+      "instructor": "Andrew Clark",
+      "duration": "25 hours",
+      "rating": 4.9,
+      "level": "Advanced",
+      "description": "Master machine learning algorithms and real-world projects.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=600&q=80",
+      "category": "Data Science"
+    },
+    {
+      "id": 12,
+      "title": "Freelancing & Career Guide",
+      "instructor": "Anna White",
+      "duration": "6 hours",
+      "rating": 4.5,
+      "level": "Beginner",
+      "description": "Learn how to start freelancing and build your career.",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "category": "Career"
+    }
+  ]
+}
