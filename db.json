@@ -5,11 +5,25 @@
       "title": "Complete Web Development Bootcamp",
       "instructor": {
         "name": "John Doe",
-        "image_url": "https://randomuser.me/api/portraits/men/1.jpg"
+        "image_url": "https://randomuser.me/api/portraits/men/1.jpg",
+        "position": "Senior Full Stack Developer",
+        "about": "John has over 10 years of experience in web technologies. He has helped thousands of students transition into tech careers at top silicon valley companies."
+      },
+      "details": {
+        "long_description": "The most comprehensive web development course on the market. From HTML to React and Node, this bootcamp covers everything you need to become a job-ready developer.",
+        "what_you_will_learn": [
+          "Build 20+ real-world projects",
+          "Master Frontend and Backend logic",
+          "Database management with MongoDB",
+          "Professional deployment workflows"
+        ]
       },
       "duration": "20 hours",
       "rating": 4.8,
+      "discount_price": 89.99,
+      "price": 199.99,
       "level": "Beginner",
+      "badge": "Best Seller",
       "description": "Learn full-stack web development from scratch.",
       "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=600&q=80",
       "category": "Development"
@@ -19,11 +33,25 @@
       "title": "Advanced JavaScript Mastery",
       "instructor": {
         "name": "Sarah Smith",
-        "image_url": "https://randomuser.me/api/portraits/women/2.jpg"
+        "image_url": "https://randomuser.me/api/portraits/women/2.jpg",
+        "position": "Software Engineer at Google",
+        "about": "Sarah specializes in core JavaScript engine optimization. She is a frequent speaker at JSConf and a contributor to open-source frameworks."
+      },
+      "details": {
+        "long_description": "Go beyond the basics. Understand closures, prototypes, async/await, and design patterns that differentiate senior developers from juniors.",
+        "what_you_will_learn": [
+          "Advanced Functional Programming",
+          "Memory Management in JS",
+          "Design Patterns & Architecture",
+          "Mastering Asynchronous JS"
+        ]
       },
       "duration": "15 hours",
       "rating": 4.7,
+      "discount_price": 45.99,
+      "price": 79.99,
       "level": "Intermediate",
+      "badge": "Top Rated",
       "description": "Deep dive into modern JavaScript concepts and patterns.",
       "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=600&q=80",
       "category": "Development"
@@ -33,11 +61,25 @@
       "title": "UI/UX Design Fundamentals",
       "instructor": {
         "name": "Emily Johnson",
-        "image_url": "https://randomuser.me/api/portraits/women/3.jpg"
+        "image_url": "https://randomuser.me/api/portraits/women/3.jpg",
+        "position": "Product Designer",
+        "about": "Emily is a passionate designer with experience at Airbnb. She focuses on user-centric design and accessibility in modern interfaces."
+      },
+      "details": {
+        "long_description": "Learn how to design digital products that users love. This course covers the entire design process from wireframing to high-fidelity prototyping.",
+        "what_you_will_learn": [
+          "User Research & Personas",
+          "Wireframing & Prototyping",
+          "Visual Design Principles",
+          "Accessibility in Design"
+        ]
       },
       "duration": "12 hours",
       "rating": 4.6,
+      "discount_price": 34.99,
+      "price": 59.99,
       "level": "Beginner",
+      "badge": "Must Buy",
       "description": "Learn the basics of user interface and user experience design.",
       "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=80",
       "category": "Design"
@@ -47,11 +89,25 @@
       "title": "React.js Complete Guide",
       "instructor": {
         "name": "Michael Brown",
-        "image_url": "https://randomuser.me/api/portraits/men/4.jpg"
+        "image_url": "https://randomuser.me/api/portraits/men/4.jpg",
+        "position": "Frontend Architect",
+        "about": "Michael has been using React since its release. He specializes in building scalable frontend architectures for high-traffic applications."
+      },
+      "details": {
+        "long_description": "Master the most popular frontend library. This course covers Hooks, Context API, Redux, and React Router in depth.",
+        "what_you_will_learn": [
+          "React Hooks & Custom Hooks",
+          "State Management with Redux",
+          "Component Lifecycle Mastery",
+          "Server Side Rendering Basics"
+        ]
       },
       "duration": "18 hours",
       "rating": 4.9,
+      "discount_price": 55.99,
+      "price": 120.00,
       "level": "Intermediate",
+      "badge": "Top Rated BootCamp",
       "description": "Build modern web apps using React and hooks.",
       "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=80",
       "category": "Development"
@@ -61,11 +117,25 @@
       "title": "Digital Marketing Basics",
       "instructor": {
         "name": "David Wilson",
-        "image_url": "https://randomuser.me/api/portraits/men/5.jpg"
+        "image_url": "https://randomuser.me/api/portraits/men/5.jpg",
+        "position": "Marketing Strategist",
+        "about": "David has managed multimillion-dollar marketing budgets for global brands. He simplifies complex marketing strategies for beginners."
+      },
+      "details": {
+        "long_description": "Kickstart your career in marketing. Learn the fundamentals of SEO, SEM, social media marketing, and content strategy.",
+        "what_you_will_learn": [
+          "SEO Best Practices",
+          "Social Media Advertising",
+          "Email Marketing Funnels",
+          "Analytics & Reporting"
+        ]
       },
       "duration": "10 hours",
       "rating": 4.5,
+      "discount_price": 19.99,
+      "price": 39.99,
       "level": "Beginner",
+      "badge": "Trending",
       "description": "Understand SEO, social media, and online marketing strategies.",
       "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
       "category": "Marketing"
@@ -75,11 +145,25 @@
       "title": "Python for Beginners",
       "instructor": {
         "name": "Sophia Lee",
-        "image_url": "https://randomuser.me/api/portraits/women/6.jpg"
+        "image_url": "https://randomuser.me/api/portraits/women/6.jpg",
+        "position": "Data Scientist",
+        "about": "Sophia is an expert in data science and automation. She loves teaching Python because of its simplicity and power in solving real-world problems."
+      },
+      "details": {
+        "long_description": "The easiest way to start your coding journey. Python is used in web dev, data science, and AI. This course covers all the essentials.",
+        "what_you_will_learn": [
+          "Variables & Data Types",
+          "Control Flow & Loops",
+          "Working with Libraries",
+          "File Handling & Automation"
+        ]
       },
       "duration": "14 hours",
       "rating": 4.7,
+      "discount_price": 24.99,
+      "price": 49.99,
       "level": "Beginner",
+      "badge": "Popular",
       "description": "Start coding in Python with hands-on examples.",
       "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=600&q=80",
       "category": "Development"
@@ -89,11 +173,25 @@
       "title": "Data Science with Python",
       "instructor": {
         "name": "James Anderson",
-        "image_url": "https://randomuser.me/api/portraits/men/7.jpg"
+        "image_url": "https://randomuser.me/api/portraits/men/7.jpg",
+        "position": "AI Researcher",
+        "about": "James has a PhD in Statistics and years of experience in predictive modeling. He makes complex data concepts easy to grasp."
+      },
+      "details": {
+        "long_description": "Unlock insights from data. Learn NumPy, Pandas, and Matplotlib to analyze and visualize complex datasets effectively.",
+        "what_you_will_learn": [
+          "Data Cleaning with Pandas",
+          "Statistical Analysis",
+          "Data Visualization techniques",
+          "Intro to Machine Learning"
+        ]
       },
       "duration": "22 hours",
       "rating": 4.8,
+      "discount_price": 75.00,
+      "price": 150.00,
       "level": "Advanced",
+      "badge": "Professional",
       "description": "Learn data analysis, visualization, and machine learning.",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
       "category": "Data Science"
@@ -103,11 +201,25 @@
       "title": "Figma UI Design Course",
       "instructor": {
         "name": "Olivia Martin",
-        "image_url": "https://randomuser.me/api/portraits/women/8.jpg"
+        "image_url": "https://randomuser.me/api/portraits/women/8.jpg",
+        "position": "Lead Visual Designer",
+        "about": "Olivia is a Figma power-user. She has designed interfaces for several successful startups and loves teaching design systems."
+      },
+      "details": {
+        "long_description": "Master Figma for UI/UX design. Learn how to create components, auto-layout, and interactive prototypes for web and mobile.",
+        "what_you_will_learn": [
+          "Figma Components & Variants",
+          "Advanced Auto-Layout",
+          "Interactive Prototyping",
+          "Design System Creation"
+        ]
       },
       "duration": "9 hours",
       "rating": 4.6,
+      "discount_price": 29.99,
+      "price": 55.00,
       "level": "Beginner",
+      "badge": "Top Rated BootCamp",
       "description": "Design beautiful interfaces using Figma.",
       "image": "https://images.unsplash.com/photo-1609921212029-bb5a28e60960?w=600&q=80",
       "category": "Design"
@@ -117,11 +229,25 @@
       "title": "Node.js Backend Development",
       "instructor": {
         "name": "Daniel Garcia",
-        "image_url": "https://randomuser.me/api/portraits/men/9.jpg"
+        "image_url": "https://randomuser.me/api/portraits/men/9.jpg",
+        "position": "Backend Lead",
+        "about": "Daniel specializes in building high-performance APIs and microservices. He is an expert in Express, NestJS, and SQL/NoSQL databases."
+      },
+      "details": {
+        "long_description": "Build the engine behind the web. This course teaches you how to create robust, secure, and scalable backend services with Node.js.",
+        "what_you_will_learn": [
+          "Express.js Framework",
+          "RESTful API Design",
+          "Authentication & JWT",
+          "Database Integration"
+        ]
       },
       "duration": "16 hours",
       "rating": 4.7,
+      "discount_price": 49.99,
+      "price": 89.99,
       "level": "Intermediate",
+      "badge": "Expert Pick",
       "description": "Build scalable backend applications using Node.js.",
       "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80",
       "category": "Development"
@@ -131,11 +257,25 @@
       "title": "SEO Mastery Course",
       "instructor": {
         "name": "Chris Evans",
-        "image_url": "https://randomuser.me/api/portraits/men/10.jpg"
+        "image_url": "https://randomuser.me/api/portraits/men/10.jpg",
+        "position": "SEO Specialist",
+        "about": "Chris has helped websites grow their organic traffic by 500%+. He knows exactly what search engines are looking for in 2024."
+      },
+      "details": {
+        "long_description": "Master search engine optimization. Learn technical SEO, keyword research, and backlink strategies to rank on the first page of Google.",
+        "what_you_will_learn": [
+          "Keyword Research Strategies",
+          "On-Page & Technical SEO",
+          "Link Building Secrets",
+          "Content Optimization"
+        ]
       },
       "duration": "8 hours",
       "rating": 4.4,
+      "discount_price": 15.99,
+      "price": 29.99,
       "level": "Beginner",
+      "badge": "Value Deal",
       "description": "Improve website ranking with SEO techniques.",
       "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=600&q=80",
       "category": "Marketing"
@@ -145,11 +285,25 @@
       "title": "Machine Learning A-Z",
       "instructor": {
         "name": "Andrew Clark",
-        "image_url": "https://randomuser.me/api/portraits/men/11.jpg"
+        "image_url": "https://randomuser.me/api/portraits/men/11.jpg",
+        "position": "ML Engineer",
+        "about": "Andrew is at the forefront of AI. He has experience building recommendation engines and computer vision models for tech giants."
+      },
+      "details": {
+        "long_description": "Master machine learning from A to Z. Learn about regression, classification, clustering, and deep learning using Scikit-Learn and TensorFlow.",
+        "what_you_will_learn": [
+          "Supervised & Unsupervised Learning",
+          "Building Neural Networks",
+          "Model Evaluation techniques",
+          "Deploying ML Models"
+        ]
       },
       "duration": "25 hours",
       "rating": 4.9,
+      "discount_price": 99.99,
+      "price": 250.00,
       "level": "Advanced",
+      "badge": "Top Rated BootCamp",
       "description": "Master machine learning algorithms and real-world projects.",
       "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=600&q=80",
       "category": "Data Science"
@@ -159,11 +313,25 @@
       "title": "Freelancing & Career Guide",
       "instructor": {
         "name": "Anna White",
-        "image_url": "https://randomuser.me/api/portraits/women/12.jpg"
+        "image_url": "https://randomuser.me/api/portraits/women/12.jpg",
+        "position": "Career Coach & Freelancer",
+        "about": "Anna has been a top-rated freelancer for 7 years. She now coaches professionals on how to leave the 9-5 and build a sustainable freelance career."
+      },
+      "details": {
+        "long_description": "Learn how to start freelancing, find high-paying clients, and build a successful career in the gig economy. Covers profile setup, marketing, and business management.",
+        "what_you_will_learn": [
+          "Optimizing Upwork/Fiverr Profiles",
+          "Pricing your services effectively",
+          "Client Communication & Sales",
+          "Financial Management for Freelancers"
+        ]
       },
       "duration": "6 hours",
       "rating": 4.5,
+      "discount_price": 29.99,
+      "price": 49.99,
       "level": "Beginner",
+      "badge": "Career Growth",
       "description": "Learn how to start freelancing and build your career.",
       "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
       "category": "Career"
