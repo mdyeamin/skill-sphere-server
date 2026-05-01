@@ -864,7 +864,8 @@
     },
     {
       "id": 5,
-      "name": "Career"
+      "name": "Career",
+       "icon": "FaBriefcase"
     }
   ]
 }
