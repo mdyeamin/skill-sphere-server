@@ -335,6 +335,532 @@
       "description": "Learn how to start freelancing and build your career.",
       "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
       "category": "Career"
+    },
+    {
+      "id": 13,
+      "title": "TypeScript for React Developers",
+      "instructor": {
+        "name": "Liam Turner",
+        "image_url": "https://randomuser.me/api/portraits/men/13.jpg",
+        "position": "Senior Frontend Engineer",
+        "about": "Liam has been writing TypeScript since its early days. He leads frontend teams and advocates for type-safe, maintainable codebases."
+      },
+      "details": {
+        "long_description": "Level up your React projects with TypeScript. Learn type annotations, generics, and advanced patterns that make your code more robust and scalable.",
+        "what_you_will_learn": [
+          "TypeScript Basics & Types",
+          "Generics & Utility Types",
+          "Typing React Components",
+          "API Integration with Types"
+        ]
+      },
+      "duration": "11 hours",
+      "rating": 4.7,
+      "discount_price": 39.99,
+      "price": 79.99,
+      "level": "Intermediate",
+      "badge": "Top Rated",
+      "description": "Add TypeScript to your React projects for better code quality.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 14,
+      "title": "Brand Identity Design",
+      "instructor": {
+        "name": "Maya Patel",
+        "image_url": "https://randomuser.me/api/portraits/women/14.jpg",
+        "position": "Brand Strategist & Designer",
+        "about": "Maya has built brand identities for over 50 companies ranging from startups to Fortune 500s. She believes great brands tell powerful stories."
+      },
+      "details": {
+        "long_description": "Learn the art and science of building memorable brand identities. From logo design to brand guidelines, master the full branding workflow.",
+        "what_you_will_learn": [
+          "Brand Strategy & Positioning",
+          "Logo Design Principles",
+          "Color & Typography Systems",
+          "Creating Brand Guidelines"
+        ]
+      },
+      "duration": "13 hours",
+      "rating": 4.6,
+      "discount_price": 39.99,
+      "price": 69.99,
+      "level": "Intermediate",
+      "badge": "Best Seller",
+      "description": "Create compelling brand identities from scratch.",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 15,
+      "title": "Content Marketing Strategy",
+      "instructor": {
+        "name": "Rachel Green",
+        "image_url": "https://randomuser.me/api/portraits/women/15.jpg",
+        "position": "Content Marketing Director",
+        "about": "Rachel has grown organic audiences of over 1 million for multiple brands using content-led strategies. She is obsessed with storytelling and metrics."
+      },
+      "details": {
+        "long_description": "Learn to create, distribute, and measure content that actually converts. This course covers blogging, video, podcast, and social media content strategies.",
+        "what_you_will_learn": [
+          "Content Calendar Planning",
+          "Copywriting for Conversions",
+          "Multi-Channel Distribution",
+          "Measuring Content ROI"
+        ]
+      },
+      "duration": "9 hours",
+      "rating": 4.5,
+      "discount_price": 22.99,
+      "price": 44.99,
+      "level": "Beginner",
+      "badge": "Trending",
+      "description": "Build a content strategy that drives traffic and leads.",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+      "category": "Marketing"
+    },
+    {
+      "id": 16,
+      "title": "Deep Learning with TensorFlow",
+      "instructor": {
+        "name": "Kevin Zhang",
+        "image_url": "https://randomuser.me/api/portraits/men/16.jpg",
+        "position": "Deep Learning Researcher",
+        "about": "Kevin has published papers on neural architecture search and NLP. He has worked on AI products used by millions of people worldwide."
+      },
+      "details": {
+        "long_description": "Dive deep into neural networks with TensorFlow 2.x. Learn CNNs, RNNs, transformers, and deploy your models to production environments.",
+        "what_you_will_learn": [
+          "Neural Network Architecture",
+          "CNNs for Computer Vision",
+          "RNNs & LSTM Networks",
+          "Model Deployment with TF Serving"
+        ]
+      },
+      "duration": "28 hours",
+      "rating": 4.8,
+      "discount_price": 89.99,
+      "price": 199.99,
+      "level": "Advanced",
+      "badge": "Professional",
+      "description": "Master deep learning with hands-on TensorFlow projects.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+      "category": "Data Science"
+    },
+    {
+      "id": 17,
+      "title": "Resume & Interview Mastery",
+      "instructor": {
+        "name": "Patricia Moore",
+        "image_url": "https://randomuser.me/api/portraits/women/17.jpg",
+        "position": "HR Director & Career Coach",
+        "about": "Patricia has reviewed over 10,000 resumes and conducted hundreds of interviews at top tech companies. She knows exactly what hiring managers want."
+      },
+      "details": {
+        "long_description": "Land your dream job faster. This course covers resume writing, LinkedIn optimization, interview preparation, and salary negotiation strategies.",
+        "what_you_will_learn": [
+          "ATS-Optimized Resume Writing",
+          "LinkedIn Profile Optimization",
+          "Behavioral Interview Techniques",
+          "Salary Negotiation Tactics"
+        ]
+      },
+      "duration": "7 hours",
+      "rating": 4.6,
+      "discount_price": 24.99,
+      "price": 44.99,
+      "level": "Beginner",
+      "badge": "Career Growth",
+      "description": "Get hired faster with a standout resume and interview skills.",
+      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=600&q=80",
+      "category": "Career"
+    },
+    {
+      "id": 18,
+      "title": "CSS & Animation Masterclass",
+      "instructor": {
+        "name": "Ethan Brooks",
+        "image_url": "https://randomuser.me/api/portraits/men/18.jpg",
+        "position": "Creative Frontend Developer",
+        "about": "Ethan is known for building award-winning websites with jaw-dropping CSS animations. He speaks at frontend conferences worldwide."
+      },
+      "details": {
+        "long_description": "Take your CSS skills to the next level. Master Flexbox, Grid, custom properties, and create stunning animations and transitions.",
+        "what_you_will_learn": [
+          "CSS Grid & Flexbox Mastery",
+          "CSS Custom Properties",
+          "Keyframe Animations",
+          "Scroll-Triggered Effects"
+        ]
+      },
+      "duration": "13 hours",
+      "rating": 4.8,
+      "discount_price": 42.99,
+      "price": 84.99,
+      "level": "Intermediate",
+      "badge": "Top Rated",
+      "description": "Create beautiful layouts and animations with modern CSS.",
+      "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 19,
+      "title": "Motion Graphics with After Effects",
+      "instructor": {
+        "name": "Isabella Scott",
+        "image_url": "https://randomuser.me/api/portraits/women/19.jpg",
+        "position": "Motion Designer",
+        "about": "Isabella has created motion graphics for top brands including Netflix and Adobe. She loves helping designers bring static designs to life."
+      },
+      "details": {
+        "long_description": "Learn to create compelling motion graphics from scratch. Cover keyframing, expressions, particle systems, and professional video compositing.",
+        "what_you_will_learn": [
+          "After Effects Interface Mastery",
+          "Keyframing & Easing",
+          "Text & Shape Animations",
+          "Exporting for Web & Video"
+        ]
+      },
+      "duration": "16 hours",
+      "rating": 4.7,
+      "discount_price": 49.99,
+      "price": 99.99,
+      "level": "Intermediate",
+      "badge": "Must Buy",
+      "description": "Create professional motion graphics and animations.",
+      "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=600&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 20,
+      "title": "Email Marketing with Mailchimp",
+      "instructor": {
+        "name": "Nathan Harris",
+        "image_url": "https://randomuser.me/api/portraits/men/20.jpg",
+        "position": "Email Marketing Consultant",
+        "about": "Nathan has run email campaigns with open rates 3x the industry average. He specializes in automation, segmentation, and deliverability."
+      },
+      "details": {
+        "long_description": "Build and grow a profitable email list. This course covers list building, automation sequences, A/B testing, and advanced segmentation strategies.",
+        "what_you_will_learn": [
+          "Building Your Email List",
+          "Automation & Drip Campaigns",
+          "A/B Testing Subject Lines",
+          "Segmentation & Personalization"
+        ]
+      },
+      "duration": "8 hours",
+      "rating": 4.4,
+      "discount_price": 17.99,
+      "price": 34.99,
+      "level": "Beginner",
+      "badge": "Value Deal",
+      "description": "Grow and monetize your email list effectively.",
+      "image": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=600&q=80",
+      "category": "Marketing"
+    },
+    {
+      "id": 21,
+      "title": "SQL & Database Design",
+      "instructor": {
+        "name": "Thomas King",
+        "image_url": "https://randomuser.me/api/portraits/men/21.jpg",
+        "position": "Database Architect",
+        "about": "Thomas has designed databases for fintech and healthcare companies. He is passionate about query optimization and data integrity."
+      },
+      "details": {
+        "long_description": "Master SQL from basics to advanced queries. Learn database design, normalization, stored procedures, and performance tuning for real-world applications.",
+        "what_you_will_learn": [
+          "SQL Queries & Joins",
+          "Database Normalization",
+          "Indexes & Query Optimization",
+          "Stored Procedures & Triggers"
+        ]
+      },
+      "duration": "17 hours",
+      "rating": 4.7,
+      "discount_price": 44.99,
+      "price": 89.99,
+      "level": "Intermediate",
+      "badge": "Expert Pick",
+      "description": "Master SQL and relational database design.",
+      "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 22,
+      "title": "NLP & Text Analytics",
+      "instructor": {
+        "name": "Grace Liu",
+        "image_url": "https://randomuser.me/api/portraits/women/22.jpg",
+        "position": "NLP Research Scientist",
+        "about": "Grace specializes in large language models and text analytics. She has built NLP pipelines for customer support automation at scale."
+      },
+      "details": {
+        "long_description": "Explore the world of Natural Language Processing. Learn text preprocessing, sentiment analysis, named entity recognition, and transformer models.",
+        "what_you_will_learn": [
+          "Text Preprocessing & Tokenization",
+          "Sentiment Analysis",
+          "Named Entity Recognition",
+          "Fine-tuning Transformer Models"
+        ]
+      },
+      "duration": "20 hours",
+      "rating": 4.8,
+      "discount_price": 79.99,
+      "price": 169.99,
+      "level": "Advanced",
+      "badge": "Professional",
+      "description": "Build intelligent text analysis applications using NLP.",
+      "image": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=600&q=80",
+      "category": "Data Science"
+    },
+    {
+      "id": 23,
+      "title": "LinkedIn Personal Branding",
+      "instructor": {
+        "name": "Sandra Lee",
+        "image_url": "https://randomuser.me/api/portraits/women/23.jpg",
+        "position": "Personal Branding Coach",
+        "about": "Sandra has helped 500+ professionals build strong LinkedIn presences that led to promotions, job offers, and speaking opportunities."
+      },
+      "details": {
+        "long_description": "Transform your LinkedIn profile into a powerful career magnet. Learn content strategy, networking tactics, and personal branding principles.",
+        "what_you_will_learn": [
+          "Profile Optimization",
+          "Content Strategy for LinkedIn",
+          "Networking & Outreach",
+          "Building Thought Leadership"
+        ]
+      },
+      "duration": "5 hours",
+      "rating": 4.5,
+      "discount_price": 19.99,
+      "price": 39.99,
+      "level": "Beginner",
+      "badge": "Career Growth",
+      "description": "Build a powerful personal brand on LinkedIn.",
+      "image": "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=600&q=80",
+      "category": "Career"
+    },
+    {
+      "id": 24,
+      "title": "Vue.js 3 from Scratch",
+      "instructor": {
+        "name": "Oscar Rivera",
+        "image_url": "https://randomuser.me/api/portraits/men/24.jpg",
+        "position": "Full Stack Vue Developer",
+        "about": "Oscar has been building production applications with Vue.js for 6 years. He is a core contributor to several popular Vue component libraries."
+      },
+      "details": {
+        "long_description": "Learn Vue.js 3 with the Composition API. Build dynamic, reactive applications and master Vuex, Vue Router, and component design patterns.",
+        "what_you_will_learn": [
+          "Vue 3 Composition API",
+          "Reactive State Management",
+          "Vue Router & Navigation",
+          "Building Reusable Components"
+        ]
+      },
+      "duration": "15 hours",
+      "rating": 4.6,
+      "discount_price": 47.99,
+      "price": 94.99,
+      "level": "Intermediate",
+      "badge": "Popular",
+      "description": "Build reactive web apps with Vue.js 3 and Composition API.",
+      "image": "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 25,
+      "title": "3D Design with Blender",
+      "instructor": {
+        "name": "Felix Braun",
+        "image_url": "https://randomuser.me/api/portraits/men/25.jpg",
+        "position": "3D Artist & Animator",
+        "about": "Felix has created 3D assets for games, films, and product visualizations. He believes Blender is the most powerful free tool for 3D artists."
+      },
+      "details": {
+        "long_description": "Start your 3D design journey with Blender. Learn modeling, texturing, lighting, and rendering to create stunning 3D visuals for any purpose.",
+        "what_you_will_learn": [
+          "3D Modeling Fundamentals",
+          "PBR Texturing & Materials",
+          "Lighting & Rendering",
+          "Animation Basics"
+        ]
+      },
+      "duration": "21 hours",
+      "rating": 4.7,
+      "discount_price": 54.99,
+      "price": 109.99,
+      "level": "Beginner",
+      "badge": "Top Rated",
+      "description": "Create stunning 3D models and animations with Blender.",
+      "image": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=600&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 26,
+      "title": "Performance Marketing & PPC",
+      "instructor": {
+        "name": "Marcus Johnson",
+        "image_url": "https://randomuser.me/api/portraits/men/26.jpg",
+        "position": "Performance Marketing Manager",
+        "about": "Marcus manages over $5M in ad spend annually across Google and Meta. He is obsessed with ROAS optimization and conversion rate improvement."
+      },
+      "details": {
+        "long_description": "Master paid advertising across Google Ads and Meta platforms. Learn campaign setup, bidding strategies, audience targeting, and conversion tracking.",
+        "what_you_will_learn": [
+          "Google Ads Campaign Setup",
+          "Meta Ads Targeting",
+          "Bid Strategy Optimization",
+          "Conversion Tracking & Attribution"
+        ]
+      },
+      "duration": "12 hours",
+      "rating": 4.6,
+      "discount_price": 34.99,
+      "price": 69.99,
+      "level": "Intermediate",
+      "badge": "Expert Pick",
+      "description": "Run profitable paid ad campaigns on Google and Meta.",
+      "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=600&q=80",
+      "category": "Marketing"
+    },
+    {
+      "id": 27,
+      "title": "Data Visualization with Power BI",
+      "instructor": {
+        "name": "Natalie Adams",
+        "image_url": "https://randomuser.me/api/portraits/women/27.jpg",
+        "position": "Business Intelligence Analyst",
+        "about": "Natalie has built executive dashboards for retail and logistics companies. She is a Microsoft Certified Power BI expert with 8 years of experience."
+      },
+      "details": {
+        "long_description": "Transform raw data into powerful business insights. Master Power BI from data import to advanced DAX formulas and interactive dashboard creation.",
+        "what_you_will_learn": [
+          "Power Query & Data Modeling",
+          "DAX Formulas & Calculations",
+          "Interactive Dashboard Design",
+          "Publishing & Sharing Reports"
+        ]
+      },
+      "duration": "14 hours",
+      "rating": 4.7,
+      "discount_price": 44.99,
+      "price": 89.99,
+      "level": "Intermediate",
+      "badge": "Best Seller",
+      "description": "Create interactive business dashboards with Power BI.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "category": "Data Science"
+    },
+    {
+      "id": 28,
+      "title": "Leadership & Team Management",
+      "instructor": {
+        "name": "Victor Hughes",
+        "image_url": "https://randomuser.me/api/portraits/men/28.jpg",
+        "position": "Executive Coach & CEO",
+        "about": "Victor has led teams of 200+ across multiple continents. He now coaches executives on high-performance leadership and organizational culture."
+      },
+      "details": {
+        "long_description": "Become the leader people want to follow. Learn frameworks for decision-making, team motivation, conflict resolution, and strategic communication.",
+        "what_you_will_learn": [
+          "Leadership Styles & Frameworks",
+          "Team Motivation Techniques",
+          "Conflict Resolution Skills",
+          "Strategic Communication"
+        ]
+      },
+      "duration": "10 hours",
+      "rating": 4.6,
+      "discount_price": 34.99,
+      "price": 64.99,
+      "level": "Intermediate",
+      "badge": "Career Growth",
+      "description": "Develop essential leadership skills for career advancement.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "category": "Career"
+    },
+    {
+      "id": 29,
+      "title": "DevOps & CI/CD Pipelines",
+      "instructor": {
+        "name": "Ryan Cooper",
+        "image_url": "https://randomuser.me/api/portraits/men/29.jpg",
+        "position": "DevOps Engineer",
+        "about": "Ryan has implemented CI/CD pipelines and cloud infrastructure for dozens of SaaS companies. He is a certified AWS and GCP professional."
+      },
+      "details": {
+        "long_description": "Learn modern DevOps practices. Master Docker, Kubernetes, GitHub Actions, and cloud deployment to ship software faster and more reliably.",
+        "what_you_will_learn": [
+          "Docker & Containerization",
+          "Kubernetes Fundamentals",
+          "GitHub Actions CI/CD",
+          "Cloud Deployment on AWS"
+        ]
+      },
+      "duration": "19 hours",
+      "rating": 4.8,
+      "discount_price": 64.99,
+      "price": 129.99,
+      "level": "Advanced",
+      "badge": "Expert Pick",
+      "description": "Automate deployment workflows with DevOps best practices.",
+      "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=600&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 30,
+      "title": "Illustration & Digital Art",
+      "instructor": {
+        "name": "Chloe Bennett",
+        "image_url": "https://randomuser.me/api/portraits/women/30.jpg",
+        "position": "Digital Illustrator",
+        "about": "Chloe creates illustrations for editorial, publishing, and brand clients worldwide. She specializes in character design and editorial illustration using Procreate and Adobe Illustrator."
+      },
+      "details": {
+        "long_description": "Express your creativity through digital illustration. Learn drawing fundamentals, color theory, and professional workflows using Procreate and Illustrator.",
+        "what_you_will_learn": [
+          "Drawing Fundamentals",
+          "Color Theory & Palettes",
+          "Character Design Process",
+          "Creating a Portfolio"
+        ]
+      },
+      "duration": "17 hours",
+      "rating": 4.8,
+      "discount_price": 52.99,
+      "price": 104.99,
+      "level": "Beginner",
+      "badge": "Must Buy",
+      "description": "Create stunning digital illustrations with Procreate and Illustrator.",
+      "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=600&q=80",
+      "category": "Design"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Development"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Marketing"
+    },
+    {
+      "id": 4,
+      "name": "Data Science"
+    },
+    {
+      "id": 5,
+      "name": "Career"
     }
   ]
 }
