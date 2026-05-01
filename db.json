@@ -844,26 +844,31 @@
   "category": [
     {
       "id": 1,
+      "name": "All",
+      "icon": "FaThList"
+    },
+    {
+      "id": 2,
       "name": "Development",
       "icon": "FaCode"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Design",
       "icon": "FaPaintBrush"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Marketing",
       "icon": "FaBullhorn"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Data Science",
       "icon": "FaChartBar"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Career",
        "icon": "FaAward"
     }
