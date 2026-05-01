@@ -843,11 +843,6 @@
   ],
   "category": [
     {
-      "id": 1,
-      "name": "All",
-      "icon": "FaThList"
-    },
-    {
       "id": 2,
       "name": "Development",
       "icon": "FaCode"
@@ -870,7 +865,7 @@
     {
       "id": 6,
       "name": "Career",
-       "icon": "FaAward"
+      "icon": "FaAward"
     }
   ]
 }
